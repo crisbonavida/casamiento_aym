@@ -43,9 +43,9 @@ Este es el segundo tramo que posiblemente tengas que hacer, para volver desde el
 En el camino podés bajarte en el aeropuerto de Corrientes, en caso de que tu vuelo salga el domingo. O sea, te sirve también para ir al aeropuerto post after.
 
 
-- `A - Punto Inicial` : San Cosme (after)
+- `A - Punto Inicial` : San Cosme (after - casa Porta)
 - `B - Punto Intermedio (opcional)` : Aeropuerto Corrientes
-- `C - Punto Final` : Corrientes Capital (Puerto)
+- `C - Punto Final` : Corrientes Capital 
 
 
 
@@ -80,7 +80,7 @@ Para viajar en cualquier horario de combi de cualquier empresa y de cualquiera d
 En caso de que vayas a la **quinta** que alquilaron las novias el domingo, vas a necesitar hacer este tramo, si estás en Corrientes o para volver desde la quinta a Corrientes cuando se termine la cosa.
 
 
-- `A - Punto Inicial` : Corrientes Capital (Puerto)
+- `A - Punto Inicial` : Corrientes Capital
 - `B - Punto Final` : Santa Ana - (quinta Agus y Meli)
 
 
