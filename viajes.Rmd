@@ -20,7 +20,7 @@ El puerto es una especie de punto de transbordo donde pasan muchas lineas de col
 *También puede servirte para volver, en ese caso es el mismo recorrido a la inversa.
 
 
-```{r, echo=FALSE, out.width="80%", out.height="80%", fig.align="center", warning=FALSE}
+```{r, echo=FALSE, out.width="100%", out.height="100%", fig.align="center", warning=FALSE}
 
 knitr::include_graphics("Tramo_1.jpg")
 
@@ -47,7 +47,7 @@ En el camino podés bajarte en el aeropuerto de Corrientes, en caso de que tu vu
 
 
 
-```{r, echo=FALSE, out.width="80%", out.height="80%", fig.align="center", warning=FALSE}
+```{r, echo=FALSE, out.width="100%", out.height="100%", fig.align="center", warning=FALSE}
 
 knitr::include_graphics("Tramo_2.jpg")
 
@@ -82,7 +82,7 @@ En caso de que vayas a la **quinta** que alquilaron las novias el domingo, vas a
 
 
 
-```{r, echo=FALSE, out.width="80%", out.height="80%", fig.align="center", warning=FALSE}
+```{r, echo=FALSE, out.width="100%", out.height="100%", fig.align="center", warning=FALSE}
 
 knitr::include_graphics("Tramo_3.png")
 
