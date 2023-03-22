@@ -26,11 +26,9 @@ knitr::include_graphics("Tramo_1.jpg")
 
 ```
 
-Si hacés click [acá](https://www.google.com/maps/d/u/0/edit?mid=14yclcIOdShYnqL84OrAft0Vo2pwZBNg&usp=sharing) te lleva al mapa interactivo con el recorrido indicado
+- Si hacés click [acá](https://www.google.com/maps/d/u/0/edit?mid=14yclcIOdShYnqL84OrAft0Vo2pwZBNg&usp=sharing) te lleva al mapa interactivo con el recorrido indicado
 
-<p>&nbsp;</p>
-
-En este [link](https://drive.google.com/drive/folders/150U7I94ZKGDyWtismlI6OclBnSMAlieZ) vas a una carpeta de drive con todos los horarios para ese recorrido
+- En este [link](https://drive.google.com/drive/folders/150U7I94ZKGDyWtismlI6OclBnSMAlieZ) vas a una carpeta de drive con todos los horarios para ese recorrido
 
 
 
@@ -57,15 +55,13 @@ knitr::include_graphics("Tramo_2.jpg")
 
 ```
 
-Si hacés click [acá](https://www.google.com/maps/d/u/0/edit?mid=1iOKYW-U9lDFrB1Cp5oPKMqfdbPu5Ki8&usp=sharing) te lleva al mapa interactivo con el recorrido indicado
+- Si hacés click [acá](https://www.google.com/maps/d/u/0/edit?mid=1iOKYW-U9lDFrB1Cp5oPKMqfdbPu5Ki8&usp=sharing) te lleva al mapa interactivo con el recorrido indicado
+
+- En este [link](https://drive.google.com/drive/folders/17Lzp6r2kCCQIeY8pb3HpSNCS2DWXJng7?usp=sharing) vas a una carpeta de drive con todos los horarios para ese recorrido y los contactos para reservar las combis
+
+
 
 <p>&nbsp;</p>
-
-En este [link](https://drive.google.com/drive/folders/17Lzp6r2kCCQIeY8pb3HpSNCS2DWXJng7?usp=sharing) vas a una carpeta de drive con todos los horarios para ese recorrido y los contactos para reservar las combis
-
-
-
-
 **Algo muy importante**, la casa de Pau queda muy cerca de Paso de la Patría, otra localidad a lado, entonces el punto inical puede ser San Cosme o Paso de la Patria, cualquiera está ok. En el drive vas a encontrar estas opciones también :)
 
 
@@ -95,14 +91,12 @@ knitr::include_graphics("Tramo_3.png")
 
 ```
 
-Si hacés click [acá](https://www.google.com/maps/d/u/0/edit?mid=1gTYa5ja9x6udC4FgLjPeF6SDkTWTPdM&usp=sharing) te lleva al mapa interactivo con el recorrido indicado
+- Si hacés click [acá](https://www.google.com/maps/d/u/0/edit?mid=1gTYa5ja9x6udC4FgLjPeF6SDkTWTPdM&usp=sharing) te lleva al mapa interactivo con el recorrido indicado
+
+- En este [link](https://drive.google.com/drive/folders/165L_b05tDzfCrMZYuTOixdNkZ5tywI1E?usp=share_link) vas a una carpeta de drive con todos los horarios para ese recorrido
+
 
 <p>&nbsp;</p>
-
-En este [link](https://drive.google.com/drive/folders/165L_b05tDzfCrMZYuTOixdNkZ5tywI1E?usp=share_link) vas a una carpeta de drive con todos los horarios para ese recorrido
-
-
-
 
 **Aclaraciones útiles:**
 
