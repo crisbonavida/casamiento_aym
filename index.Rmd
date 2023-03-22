@@ -5,13 +5,22 @@ site: bookdown::bookdown_site
 documentclass: book
 output:
   bookdown::gitbook: default
-  #bookdown::pdf_book: default
+  bookdown::pdf_book: default
 ---
 
-# Hello World
 
-Hi.
+# ¿Qué vas a encontrar acá?
 
-Bye.
+Acá te resumimos toda la data que pasó Paula Porta sobre los **distintos recorridos** que podes llegar a necesitar hacer durante el finde
 
-<!-- If you need PDF output, uncomment bookdown::pdf_book above in YAML. You will need a LaTeX installation, e.g., https://yihui.name/tinytex/ -->
+Son 3:
+
+- **Tramo 1**: Aeropuerto Corrientes - Corrientes Capital (Puerto)
+
+- **Tramo 2**: San Cosme (after) - Corrientes Capital 
+
+- **Tramo 3**:  Corrientes Capital (Puerto) - Santa Ana (quinta domingo)
+
+
+
+
